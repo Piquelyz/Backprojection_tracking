@@ -1,10 +1,10 @@
 ## How to Run
-This is a simple color based tracker using OpenCV back-projection inspired by [pyimagesearch's' Ball Tracking post ](http://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/)
+This is a simple color based tracker using OpenCV back-projection inspired by [pyimagesearch's Ball Tracking ](http://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/) post
 
 To Run this code:   
-1. `python track_color.py`
-2. use the mouse-pointer to select the colored  object you want to track. Double-click the desired colored object. 
-3. press 'b' to cycle through different views.
+* `python track_color.py`
+* use the mouse-pointer to select the colored  object you want to track. Double-click the desired colored object. 
+* press 'b' to cycle through different views.
 
 ## Output
 
