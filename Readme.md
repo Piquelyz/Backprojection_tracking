@@ -8,12 +8,12 @@ To Run this code:
 
 ## Output
 
-    Masked output: 
-    ![alt text](masked.jpg)
+  Masked output: 
+  ![alt text](masked.jpg)
 
-    Contour output: 
-    ![alt text](contour.jpg)
+  Contour output: 
+  ![alt text](contour.jpg)
 
-    Bounded Rectangle output: 
-    ![alt text](bounded_rect.jpg)
+  Bounded Rectangle output: 
+  ![alt text](bounded_rect.jpg)
 
